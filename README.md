@@ -1,5 +1,5 @@
 ### Bem-vindo ao AllianceTechSolutions! 
-Olá, eu sou Thiago ABC, um entusiasta apaixonado por programação e atualmente embarcando em uma emocionante jornada no mundo do desenvolvimento de software. Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e Paralelamente aprimorando minhas habilidades como um futuro programador fullstack JavaScript.
+Olá, eu sou Thiago ABC, um entusiasta apaixonado por programação e atualmente embarcando em uma emocionante jornada no mundo do desenvolvimento de software. Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e Paralelamente aprimorando minhas habilidades como um Desenvolvedor fullstack JavaScript.
 <hr>
 
 [![Youtube](    https://img.shields.io/website-up-down-green-red/http/monip.org.svg )](https://AllianceTechSolutions)
