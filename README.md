@@ -3,7 +3,7 @@ Olá, eu sou Thiago ABC, um entusiasta apaixonado por programação e atualmente
 <hr>
 
 [![Youtube](    https://img.shields.io/website-up-down-green-red/http/monip.org.svg )](https://AllianceTechSolutions)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thiago-borges-627659223/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thiago-borges-)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://AllianceTechSolutions)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://AllianceTechSolutions)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://AllianceTechSolutions)
