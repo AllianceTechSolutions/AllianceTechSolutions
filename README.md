@@ -14,9 +14,11 @@ Sou movido pela inovação e tecnologia, sempre buscando aprender e aplicar nova
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thiago-borges-)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](URL_DO_GITHUB)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://AllianceTechSolutions)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://AllianceTechSolutions)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://AllianceTechSolutions)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://AllianceTechSolutions)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://AllianceTechSolutions)
+<hr>
 <hr>
 
 ![Alliance GitHub stats](https://github-readme-stats.vercel.app/api?username=AllianceTechSolutions&show_icons=true&theme=onedark)
@@ -53,7 +55,7 @@ Sou movido pela inovação e tecnologia, sempre buscando aprender e aplicar nova
 
 ### SEO e Destaques
 
-Thiago ABC | Desenvolvedor Fullstack JavaScript | Tecnólogo em Análise e Desenvolvimento de Sistemas | AllianceTechSolutions | Inovação em Tecnologia | Programação | Desenvolvimento de Software | Análise de Dados | Power BI
+Thiago ABC | Desenvolvedor Fullstack | Tecnólogo em Análise e Desenvolvimento de Sistemas | AllianceTechSolutions | Inovação em Tecnologia | Programação | Desenvolvimento de Software | Análise de Dados | Power BI
 
 <br><hr>
 
