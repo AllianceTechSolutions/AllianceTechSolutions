@@ -1,4 +1,4 @@
-# ![Nome da Empresa](https://media.licdn.com/dms/image/D4D16AQENWK0rcelzwg/profile-displaybackgroundimage-shrink_350_1400/0/1716386048682?e=1726704000&v=beta&t=4xios4qFJPQ_j53ewEpHBgidliUr97qyXoSheC0U-ko) <!-- Insira o link da imagem da sua empresa aqui -->
+# ![AllianceTechSoluções](https://media.licdn.com/dms/image/D4D16AQG5oH3GpoGGiA/profile-displaybackgroundimage-shrink_350_1400/0/1721166500661?e=1726704000&v=beta&t=08NcaDzDkvsKYwzidAMIfJTtHbc7xO2aMq9WI2zjtH8) <!-- Insira o link da imagem da sua empresa aqui -->
 
 ## Bem-vindo ao AllianceTechSolutions! 
 👋 Olá! Eu sou Thiago ABC, fundador da AllianceTechSolutions, uma startup de tecnologia que está no início de sua jornada com muitas ideias inovadoras. Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e, paralelamente, aprimorando minhas habilidades como Desenvolvedor Fullstack.
@@ -11,12 +11,12 @@ Sou movido pela inovação e tecnologia, sempre buscando aprender e aplicar nova
 ### Canais de contato
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thiago-borges-)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-borges-627659223/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alliancetechsolutions90@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](URL_DO_GITHUB)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://AllianceTechSolutions)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://AllianceTechSolutions)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://AllianceTechSolutions)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alliance_innovate/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://AllianceTechSolutions)
 <hr>
 <hr>
@@ -25,21 +25,31 @@ Sou movido pela inovação e tecnologia, sempre buscando aprender e aplicar nova
 
 <hr>
 
-### Minhas Habilidades
+## Minhas Habilidades
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <br/><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+### Linguagens de Programação
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Desenvolvimento Web
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Bancos de Dados
+
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Análise de Dados
+
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
 
 </div><br>
 
@@ -47,15 +57,13 @@ Sou movido pela inovação e tecnologia, sempre buscando aprender e aplicar nova
 
 ### Projetos 
 
-[N do P](link do p): Breve descrição do projeto e tecnologias utilizadas.
-
-[Nome do Projeto](link do projeto): Breve descrição do projeto e tecnologias utilizadas.
+[NomeProjeto](link do projeto): Breve descrição do projeto e tecnologias utilizadas.
 
 <br><hr>
 
 ### SEO e Destaques
 
-Thiago ABC | Desenvolvedor Fullstack | Tecnólogo em Análise e Desenvolvimento de Sistemas | AllianceTechSolutions | Inovação em Tecnologia | Programação | Desenvolvimento de Software | Análise de Dados | Power BI
+Thiago ABC | Desenvolvedor Fullstack | Tecnólogo em Análise e Desenvolvimento de Sistemas | AllianceTechSolutions | Inovação em Tecnologia | Programação | Desenvolvimento de Software | Análise de Dados | Power BI | Gestão da Qualidade
 
 <br><hr>
 
