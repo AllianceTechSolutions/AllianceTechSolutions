@@ -1,4 +1,4 @@
-# ![AllianceTechSoluções](https://media.licdn.com/dms/image/D4D16AQG5oH3GpoGGiA/profile-displaybackgroundimage-shrink_350_1400/0/1721166500661?e=1726704000&v=beta&t=08NcaDzDkvsKYwzidAMIfJTtHbc7xO2aMq9WI2zjtH8) <!-- Insira o link da imagem da sua empresa aqui -->
+# ![AllianceTechSoluções](https://media.licdn.com/dms/image/v2/D4D16AQG5oH3GpoGGiA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721166500661?e=1732147200&v=beta&t=det-vBmQgi3gku43-kIPuH32XNDS8TtyTba-csukC48) <!-- Insira o link da imagem da sua empresa aqui -->
 
 ## Bem-vindo ao AllianceTechSolutions! 
 👋 Olá! Eu sou Thiago ABC, fundador da AllianceTechSolutions, uma startup de tecnologia que está no início de sua jornada com muitas ideias inovadoras. Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e, paralelamente, aprimorando minhas habilidades como Desenvolvedor Fullstack.
